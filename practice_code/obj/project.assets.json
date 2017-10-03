@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\csharp_practice\\practice_code\\practice_code.csproj",
+      "projectUniqueName": "c:\\Users\\Administrator\\Desktop\\csharp_practice\\practice_code\\practice_code.csproj",
       "projectName": "practice_code",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\csharp_practice\\practice_code\\practice_code.csproj",
+      "projectPath": "c:\\Users\\Administrator\\Desktop\\csharp_practice\\practice_code\\practice_code.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\csharp_practice\\practice_code\\obj\\",
+      "outputPath": "c:\\Users\\Administrator\\Desktop\\csharp_practice\\practice_code\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

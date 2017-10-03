@@ -1659,6 +1659,19 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "practice_code/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.0.0"
+        },
+        "compile": {
+          "bin/placeholder/practice_code.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/practice_code.dll": {}
+        }
       }
     }
   },
@@ -5604,12 +5617,18 @@
         "xunit.runner.visualstudio.2.2.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "practice_code/1.0.0": {
+      "type": "project",
+      "path": "../practice_code/practice_code.csproj",
+      "msbuildProject": "../practice_code/practice_code.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.NET.Test.Sdk >= 15.3.0-preview-20170628-02",
       "Microsoft.NETCore.App >= 2.0.0",
+      "practice_code >= 1.0.0",
       "xunit >= 2.2.0",
       "xunit.runner.visualstudio >= 2.2.0"
     ]
@@ -5621,11 +5640,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\csharp_practice\\practice_tests\\practice_tests.csproj",
+      "projectUniqueName": "c:\\Users\\Administrator\\Desktop\\csharp_practice\\practice_tests\\practice_tests.csproj",
       "projectName": "practice_tests",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\csharp_practice\\practice_tests\\practice_tests.csproj",
+      "projectPath": "c:\\Users\\Administrator\\Desktop\\csharp_practice\\practice_tests\\practice_tests.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\csharp_practice\\practice_tests\\obj\\",
+      "outputPath": "c:\\Users\\Administrator\\Desktop\\csharp_practice\\practice_tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5641,7 +5660,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\Administrator\\Desktop\\csharp_practice\\practice_code\\practice_code.csproj": {
+              "projectPath": "c:\\Users\\Administrator\\Desktop\\csharp_practice\\practice_code\\practice_code.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

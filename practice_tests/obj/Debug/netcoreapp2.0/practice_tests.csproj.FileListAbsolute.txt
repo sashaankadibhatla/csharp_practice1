@@ -1,0 +1,15 @@
+c:\Users\Administrator\Desktop\csharp_practice\practice_tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\Administrator\Desktop\csharp_practice\practice_tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+c:\Users\Administrator\Desktop\csharp_practice\practice_tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+c:\Users\Administrator\Desktop\csharp_practice\practice_tests\bin\Debug\netcoreapp2.0\practice_tests.deps.json
+c:\Users\Administrator\Desktop\csharp_practice\practice_tests\bin\Debug\netcoreapp2.0\practice_tests.runtimeconfig.json
+c:\Users\Administrator\Desktop\csharp_practice\practice_tests\bin\Debug\netcoreapp2.0\practice_tests.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\csharp_practice\practice_tests\bin\Debug\netcoreapp2.0\practice_tests.dll
+c:\Users\Administrator\Desktop\csharp_practice\practice_tests\bin\Debug\netcoreapp2.0\practice_tests.pdb
+c:\Users\Administrator\Desktop\csharp_practice\practice_tests\bin\Debug\netcoreapp2.0\practice_code.dll
+c:\Users\Administrator\Desktop\csharp_practice\practice_tests\bin\Debug\netcoreapp2.0\practice_code.pdb
+c:\Users\Administrator\Desktop\csharp_practice\practice_tests\obj\Debug\netcoreapp2.0\practice_tests.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\csharp_practice\practice_tests\obj\Debug\netcoreapp2.0\practice_tests.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\csharp_practice\practice_tests\obj\Debug\netcoreapp2.0\practice_tests.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\csharp_practice\practice_tests\obj\Debug\netcoreapp2.0\practice_tests.dll
+c:\Users\Administrator\Desktop\csharp_practice\practice_tests\obj\Debug\netcoreapp2.0\practice_tests.pdb

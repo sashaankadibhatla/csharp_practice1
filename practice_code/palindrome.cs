@@ -3,7 +3,7 @@ using System;
 namespace palindrome_program{
     
     public class palindrome{
-        public void palindrome_fun(string sequence){
+        public int palindrome_fun(string sequence){
             int l=sequence.Length;
             int []array=new int[l];
             int sum=0;
@@ -26,13 +26,7 @@ namespace palindrome_program{
             else 
                 Console.WriteLine("not a palindrome");
             
-
-
-            
-            
-                
-
-
+            return sum;
         }
     }
 }

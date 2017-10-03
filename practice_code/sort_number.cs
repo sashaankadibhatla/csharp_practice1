@@ -3,7 +3,7 @@ using System;
 namespace program5{
 
     public class sort_number{
-        public void sort_number_fun(string sequence){
+        public int sort_number_fun(string sequence){
             int l=sequence.Length;
             int i,sum=0;
             int []array=new int[l];
@@ -28,6 +28,7 @@ namespace program5{
         if(sum<15){
             Console.WriteLine("False");
         }
+        return sum;
 
         }
     }
